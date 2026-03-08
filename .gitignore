@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+yolov8n.pt
+recordings/
+cameras.json
